@@ -40,8 +40,7 @@ monopoly = {
 			shortline: {
 				"mortgage_value" => "$800"
 			}
-		},
-		
+		}
 	}
 }
 end
